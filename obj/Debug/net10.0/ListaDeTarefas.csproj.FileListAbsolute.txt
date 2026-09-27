@@ -1,0 +1,14 @@
+C:\Users\Pichau\ListaDeTarefas\obj\Debug\net10.0\ListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\ListaDeTarefas\obj\Debug\net10.0\ListaDeTarefas.AssemblyInfoInputs.cache
+C:\Users\Pichau\ListaDeTarefas\obj\Debug\net10.0\ListaDeTarefas.AssemblyInfo.cs
+C:\Users\Pichau\ListaDeTarefas\obj\Debug\net10.0\ListaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\ListaDeTarefas\bin\Debug\net10.0\ListaDeTarefas.exe
+C:\Users\Pichau\ListaDeTarefas\bin\Debug\net10.0\ListaDeTarefas.deps.json
+C:\Users\Pichau\ListaDeTarefas\bin\Debug\net10.0\ListaDeTarefas.runtimeconfig.json
+C:\Users\Pichau\ListaDeTarefas\bin\Debug\net10.0\ListaDeTarefas.dll
+C:\Users\Pichau\ListaDeTarefas\bin\Debug\net10.0\ListaDeTarefas.pdb
+C:\Users\Pichau\ListaDeTarefas\obj\Debug\net10.0\ListaDeTarefas.dll
+C:\Users\Pichau\ListaDeTarefas\obj\Debug\net10.0\refint\ListaDeTarefas.dll
+C:\Users\Pichau\ListaDeTarefas\obj\Debug\net10.0\ListaDeTarefas.pdb
+C:\Users\Pichau\ListaDeTarefas\obj\Debug\net10.0\ListaDeTarefas.genruntimeconfig.cache
+C:\Users\Pichau\ListaDeTarefas\obj\Debug\net10.0\ref\ListaDeTarefas.dll
